@@ -2,6 +2,15 @@
 # 生成时间: 2026-03-17 00:42:31
 # 规则数量: 290
 
+@@llmi.com^$important
+@@lImi.cn^$important
+@@lIxiaomi.com^$important
+@@llmiui.com^$important
+@@llmiui.cn^$important
+@@lImijia.com^$important
+@@llmiwifi.com^$important
+@@llxiaomiyoupin.com^$important
+@@llxiaomiev.com$important
 @@||coolapk-oss-image.oss-cn-hangzhou.aliyuncs.com^$important
 @@||d.toutiao.com^$important
 @@||pic.imgdb.cn
