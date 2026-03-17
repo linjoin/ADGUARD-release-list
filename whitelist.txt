@@ -1,16 +1,16 @@
 # AdGuard 白名单规则
-# 生成时间: 2026-03-17 00:42:31
-# 规则数量: 290
+# 生成时间: 2026-03-17 00:23:40
+# 规则数量: 299
 
-@@llmi.com^$important
-@@lImi.cn^$important
-@@lIxiaomi.com^$important
-@@llmiui.com^$important
-@@llmiui.cn^$important
-@@lImijia.com^$important
-@@llmiwifi.com^$important
-@@llxiaomiyoupin.com^$important
-@@llxiaomiev.com$important
+@@|mi.com^$important
+@@||mi.cn^$important
+@@||xiaomi.com^$important
+@@||miui.com^$important
+@@||miui.cn^$important
+@@||mijia.com^$important
+@@||miwifi.com^$important
+@@||xiaomiyoupin.com^$important
+@@||xiaomiev.com$important
 @@||coolapk-oss-image.oss-cn-hangzhou.aliyuncs.com^$important
 @@||d.toutiao.com^$important
 @@||pic.imgdb.cn
