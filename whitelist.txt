@@ -1,3 +1,5 @@
+@@||cloud.nikke-kr.com^$important
+@@||jp-lobby.nikke-kr.com^$important
 @@||aeccmlkrqxuw6hcx.0kkkkkt.com^$important
 @@||app-measurement.com^$important
 @@||stars.shuqireader.com^$important
